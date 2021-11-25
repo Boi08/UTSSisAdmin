@@ -12,26 +12,21 @@
 ```
 
 ```markdown
--	Dengan mengklik link yang telah tersedia pada soal uts, maka akan dibawa ke link tersebut dengan tampilan seperti dibawah ini :
+-	Akan ada 4 pilihan yaitu :
+**Try Windows Server on Azure**
+**Create a Windows Server VM in Azure**
+**Download the ISO**
+**Download teh VHD**
+Dan pilih yang *Download the ISO*
 ```
-
-
-
-![image](https://user-images.githubusercontent.com/62064492/143055397-36f7dd74-54c5-40a8-8dbc-c01f3b9af267.png)
-
-
 
 ```markdown
--	Pilih download the ISO kemudian ikutin sesuai step by stepnya. Jangan lupa centang "yes" kemudian continue
+- Kemudian ikuti sesuai step by stepnya. Jangan lupa isi data dan centang "yes" kemudian continue
 ```
-![image](https://user-images.githubusercontent.com/62064492/143053175-653f48de-9823-4f51-8a0b-3e45a5b30969.png)
-
 
 ```markdown
 -	Pilih bahasa yang diinginkan dan klik download
 ```
-
-![image](https://user-images.githubusercontent.com/62064492/143054412-3007ddec-869b-4b2a-8005-904741790331.png)
 
 ```markdown
 2.	Langkah Langkah instalasi :
@@ -43,34 +38,36 @@
 
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143054598-1f6e6fc3-c1a7-4a57-ab2b-78f2d7e2ebef.png)
+![image](https://user-images.githubusercontent.com/74553908/143456620-6c636571-cf9b-4a27-b3c1-a85893860cf8.png)
+
 
 
 ```markdown
 - Enter the name of the machine and type of system to use
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143054762-87d1d4a1-858f-444d-8a39-52aef92be822.png)
+![image](https://user-images.githubusercontent.com/74553908/143456876-3e1afbb2-d57c-4cbe-bb16-d7a02ee7e472.png)
+
 
 ```markdown
 - Define ram, create the disk defining type and size
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143054912-54ba54b0-578d-48fc-9683-3af3273c0a5f.png)
+![image](https://user-images.githubusercontent.com/74553908/143457247-c085bde3-ded9-48f5-8167-a4b3ab610e9e.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143055084-ee7c4214-06c5-45be-9730-de3a94b1a693.png)
+![image](https://user-images.githubusercontent.com/74553908/143457324-5cafca96-7d7d-41d9-9ce9-9fbbc8493832.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143055198-bc2a0183-3407-4eb7-a44d-e1f0b6a4dfc0.png)
+![image](https://user-images.githubusercontent.com/74553908/143457449-4378eff1-8bfa-493f-8b84-31dea22f00c4.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143055756-ac239256-e401-450b-9820-5af8044f2f3b.png)
+![image](https://user-images.githubusercontent.com/74553908/143457515-4f9be0f5-4d90-4878-bbdf-6064ebf4677c.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143055916-67c941d0-c713-4ef4-a6b5-717256fc449d.png)
+![image](https://user-images.githubusercontent.com/74553908/143457611-adf6f71f-af7b-4a04-804c-29ab35ee8613.png)
 
 ```markdown
-- Go to the machine configuration and in the “Network” section set “Bridge adapter”
+- Go to the machine configuration and in the “Network” section set it from "NET" to “Bridge adapter”
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143056170-c0aeb41f-8827-4925-9031-036b48e052b6.png)
+![image](https://user-images.githubusercontent.com/74553908/143457750-e9b62544-0d09-4107-afb0-ae209094b9b8.png)
 
 
 
@@ -79,78 +76,74 @@
 ```
 
 
-![image](https://user-images.githubusercontent.com/62064492/143056320-0b7067e7-d5cc-44f3-b603-9a4948458450.png)
+![image](https://user-images.githubusercontent.com/74553908/143458582-ed1dc1cf-1b60-4db9-a676-04b24a32fee0.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143056354-4c788dd4-9e99-4b56-a35e-8a174c7d4c45.png)
+![image](https://user-images.githubusercontent.com/74553908/143458651-7545dee1-e58e-48aa-ac65-8040f28a90ef.png)
 
 ```markdown
 - Click on “Start” and the Windows Server 2022 installation wizard will load
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143063440-38670bfb-ec6c-4faa-aebc-153a7335261b.png)
+![image](https://user-images.githubusercontent.com/74553908/143458902-bb08b8c5-6363-4f4d-b19f-7449a1ffeed6.png)
 
 ```markdown
 - Click on “Install now”
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143063713-1c3f1ff1-f6eb-4818-adf7-e08f8b6f9a46.png)
+![image](https://user-images.githubusercontent.com/74553908/143459022-64726e2b-3a96-4429-8dc4-2eee3196b14e.png)
 
 ```markdown
 - Enter the license (if you have on) and then define the edition to use, Accept the license and then proceed with the installation of Windows Server 2022
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143056936-1217ebea-2615-42be-8fc5-aab38dc8f412.png)
+![image](https://user-images.githubusercontent.com/74553908/143459220-0409508c-d1dc-4766-8586-17ed28a33276.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143056983-b9f82028-a4bd-4559-b990-7308468b0e4d.png)
+![image](https://user-images.githubusercontent.com/74553908/143459329-45f8004e-9db1-45a5-a6f5-190d87bea07b.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057019-910c5a7a-e41a-48a2-802a-a6c8b9c504b0.png)
+![image](https://user-images.githubusercontent.com/74553908/143459619-0da598e8-5659-4c45-919a-9ef87fa22489.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057060-3828692f-ecc5-4685-9922-f30aad714be5.png)
+![image](https://user-images.githubusercontent.com/74553908/143459754-c554fcff-0299-4987-9d21-6a66169db03f.png)
 
 
 ```markdown
 - The system will reboot to complete the process
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143057224-a70441ce-bcf8-4409-a7f6-7cd86045008e.png)
-
-![image](https://user-images.githubusercontent.com/62064492/143057254-ba41bec5-2b5c-45e3-b628-24ecdbb7dcda.png)
-
 ```markdown
 - Enter the administrator password
 ```
-![image](https://user-images.githubusercontent.com/62064492/143057361-78d2d5d6-c2d0-42c2-82c5-5e9c2e1f2f50.png)
+![image](https://user-images.githubusercontent.com/74553908/143463329-9cc160d8-d9a6-42d4-886a-97218fc8d3c0.png)
 
 ```markdown
 - Access the menu “Input – Keyboard – Insert Ctrl + Alt + Del”. Enter the password created and wait for the configuration to load
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143057442-756f4682-c260-467c-9f2a-88ebfbe57c52.png)
+![image](https://user-images.githubusercontent.com/74553908/143463827-0a3c156a-401e-4d64-bc0a-bcecaf192650.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057473-4cdefe33-c527-45f2-a2c4-0ad5167cbb36.png)
+![image](https://user-images.githubusercontent.com/74553908/143464257-fa80c4e2-a94a-4d53-8106-e78e60ccea25.png)
 
 
 ```markdown
 - Go the menu “Devices – Insert Guest Additions CD Image” , From the Explorer run this and follow the steps pf the wizard. Reboot the machine
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143057576-ab4e6e92-dee8-448e-8517-7896762ff6f3.png)
+![image](https://user-images.githubusercontent.com/74553908/143464828-797ad72f-4eeb-4425-b12b-62b86a88ca34.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057600-a4b5bfa4-87a5-412c-bb41-23ec20e4c293.png)
+![image](https://user-images.githubusercontent.com/74553908/143464963-698f7041-61d1-48a9-bee3-a94116bc44bf.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057633-ff164af7-0320-4951-8a90-334ac7b81127.png)
+![image](https://user-images.githubusercontent.com/74553908/143465140-729b4afa-0a1b-4fad-9f0b-4ad5c7c16369.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057688-6d498c5c-7804-4630-bf67-19c2855d6d4e.png)
+![image](https://user-images.githubusercontent.com/74553908/143465222-2fe9f1c7-6708-4470-ab77-45a4e45bcb9b.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057798-c2e68da7-ff7a-465e-86ee-8a163429e018.png)
+![image](https://user-images.githubusercontent.com/74553908/143465356-e63438a8-35ae-43e6-ab3f-561295c6d5c8.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143057841-793a837d-8ce0-419d-bcbd-7d5f0a693e06.png)
+![image](https://user-images.githubusercontent.com/74553908/143465556-5a1168cc-d257-4e01-8405-dc6b48f182dd.png)
 
 
 ```markdown
 - Access the menu “Input – Keyboard – Insert Ctrl + Alt + Del”. Enter the password created and wait for the configuration to load
 ```
-![image](https://user-images.githubusercontent.com/62064492/143057955-b7282bcd-8bc1-40f9-858e-b2c40e1bcfbc.png)
+![image](https://user-images.githubusercontent.com/74553908/143466060-ac6d0e3a-db3b-4270-994c-810249f11ee8.png)
 
 ```markdown
 - Run “winver” to validate the installed edition of Windows Server
@@ -254,18 +247,6 @@ C. Instalasi Net Framework 3.5
 ![image](https://user-images.githubusercontent.com/62064492/143059642-a839d8d3-231c-4f1e-8a5a-fe37c474cb02.png)
 
 ```markdown
-- Apabila mengalami eror seperti gambar dibawah ini, solusi dari saya melakukan windows update ke versi 21H1 yang dimana sudah include instalasi .NET Framework 3.5 
-```
-![image](https://user-images.githubusercontent.com/62064492/143059738-7efa2ff3-83f2-42e2-9f84-578082f27a29.png)
-
-```markdown
-- Dan Ketika saya ngecek ulang, sudah ke install
-
-```
-![image](https://user-images.githubusercontent.com/62064492/143059913-323cfebb-8baa-4d03-b6c4-e78dad592013.png)
-
-
-```markdown
 **Promote Server to a Domain Controller**
 ```
 
@@ -273,33 +254,33 @@ C. Instalasi Net Framework 3.5
 - Seting ke ip static menggunakan cmd, ketik sconfig
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143060040-3187b4bc-c2ef-442e-924a-36ef3cebe5a4.png)
+![image](https://user-images.githubusercontent.com/74553908/143473368-4946e132-3d60-40be-b6d9-1c35c6b4e79c.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143060060-92f95ebf-600c-4c5e-8df0-fea1880b923f.png)
+![image](https://user-images.githubusercontent.com/74553908/143473470-2820fa16-7c16-4c18-9917-558c8e1d3c07.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143060089-187e310d-b30c-46d6-b23a-0e22b7b89e6c.png)
+![image](https://user-images.githubusercontent.com/74553908/143473677-4a005d30-d19f-4ea6-8483-a68e0a3fce59.png)
 
 ```markdown
 - Setting IP Address Server-ADDS dan mengarah DNS ke IP address static yang digunakan.
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143060278-638d7a68-2f9f-4e0a-ac89-b449a6b29bc1.png)
+![image](https://user-images.githubusercontent.com/74553908/143474043-d5070d18-0b96-4445-9f91-86407b5dbb75.png)
 
 ```markdown
 - Klik “Promote this server to a domain controller untuk konfigurasi ADDS
 ```
-![image](https://user-images.githubusercontent.com/62064492/143060623-08bef976-72e9-424a-a31b-668860218189.png)
+![image](https://user-images.githubusercontent.com/74553908/143476294-34c581ca-ac6a-44ab-a3e1-fa16ffb6b5e3.png)
 
 ```markdown
-- Pilih “Add a new forest” dan masukkan nama domain yang akan digunakan pada Root Domain Name. Misalnya disini saya menggunakan domain “Aim.com”
+- Pilih “Add a new forest” dan masukkan nama domain yang akan digunakan pada Root Domain Name. Misalnya disini saya menggunakan domain “Boi.com”
 ```
-![image](https://user-images.githubusercontent.com/62064492/143062005-9155bdfa-ea42-4cb3-91ec-3e4b0072998a.png)
+![image](https://user-images.githubusercontent.com/74553908/143476457-a735bd86-1fde-44ca-a152-97b79d56b54b.png)
 
 ```markdown
 - Pilih “Windows Server 2016” pada functional level, beri tanda centang pada “Domain Name System (DNS) server” dan ”Global Catalog (GC)”. Serta mengisi password Directory Services Restore Mode dengan kriteria strong password.
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143062084-1c336f87-a714-444b-badc-ce385c59e73c.png)
+![image](https://user-images.githubusercontent.com/74553908/143476608-c90d0ceb-cdf2-493b-aca7-2a43a22a5ba8.png)
 
 ```markdown
 - Lewati bagian DNS Options, lalu klik “Next”.
@@ -309,8 +290,8 @@ C. Instalasi Net Framework 3.5
 
 ```markdown
 - Mengisi “The NetBIOS domain name” sesuai dengan nama domain yang digunakan.
-```
-![image](https://user-images.githubusercontent.com/62064492/143062175-cfc66680-5ce8-40e5-b879-13239b76cd74.png)
+
+![image](https://user-images.githubusercontent.com/74553908/143476773-2e6dc08b-82f4-4276-8e92-91ddd3325eb8.png)
 
 ```markdown
 - Lewati bagian Paths, klik “Next”.
@@ -321,7 +302,7 @@ C. Instalasi Net Framework 3.5
 ```markdown
 - Cek konfigurasi yang ditentukan pada Review Options, jika suda ok. Klik “Next”.
 ```
-![image](https://user-images.githubusercontent.com/62064492/143062586-0f8f8e3b-1a2b-4546-9779-f70238828d1a.png)
+![image](https://user-images.githubusercontent.com/74553908/143476945-8c339382-aa18-4c83-bf4f-4c26e294ace9.png)
 
 ```markdown
 - Jika sudah ada tulisan All prerequisite checks passed successfully. Klik “Install” untuk apply konfigurasi yang sudah ditentukan.
@@ -337,21 +318,22 @@ C. Instalasi Net Framework 3.5
 ```markdown
 - Setelah selesai menginstal, maka laptop akan ke restart otomatis. Kemudian login menggunakan password administrator
 ```
-![image](https://user-images.githubusercontent.com/62064492/143063003-05d43408-9b66-47a4-b1eb-c0244616cba2.png)
+![image](https://user-images.githubusercontent.com/74553908/143481426-fa971aaf-9308-443b-89b4-8580bee00c84.png)
 
 ```markdown
 - Untuk mengecek hasil konfigurasi, buka cmd dan ketikkan “netdom query fsmo”
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143063107-abcd1b4e-08d8-44a0-a75b-c1365c377279.png)
+![image](https://user-images.githubusercontent.com/74553908/143481750-03c044b7-e29f-453c-b89a-b9186cac1b3a.png)
 
 ```markdown
 - Setelah login dengan Active Directory Domain Controller, buka properti TCP/IP koneksi jaringan Anda. Anda dapat melihat Alamat IP server DNS yang disukai
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143063183-bdb4c10d-c204-41d6-b2b5-67c1ccd33348.png)
+![image](https://user-images.githubusercontent.com/74553908/143481934-26f29b60-2e8d-4c30-842a-c98d2fdac8ed.png)
 
-![image](https://user-images.githubusercontent.com/62064492/143063217-4601d716-724f-482e-a080-0107a4cf0656.png)
+![image](https://user-images.githubusercontent.com/74553908/143482066-6f4a6e83-771c-4772-a46c-edb5f161a8d8.png)
+
 
 
 
