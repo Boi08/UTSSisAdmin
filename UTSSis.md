@@ -290,6 +290,7 @@ C. Instalasi Net Framework 3.5
 
 ```markdown
 - Mengisi “The NetBIOS domain name” sesuai dengan nama domain yang digunakan.
+```
 
 ![image](https://user-images.githubusercontent.com/74553908/143476773-2e6dc08b-82f4-4276-8e92-91ddd3325eb8.png)
 
